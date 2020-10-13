@@ -1,0 +1,18 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.menuitem{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}

@@ -1,0 +1,17 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.indeximage{
+    width: 500px;
+    height: 600px;
+}
+
+/*
+.indeximage:hover{
+   width: 550px;
+   height: 650px;
+}
+*/

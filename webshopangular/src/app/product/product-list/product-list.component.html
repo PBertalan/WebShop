@@ -1,0 +1,18 @@
+<app-filter-layout
+
+(brandFilter)="selectedBrand($event)"
+>
+   
+
+</app-filter-layout>
+
+
+<li *ngFor="let product of productList">
+    <img src="assets/tshirtminta.jpg" width="250" height="250">
+    <p><b>{{product.name}}</b></p>
+    <p><i>{{product.price}}</i></p>
+</li>
+
+
+
+
